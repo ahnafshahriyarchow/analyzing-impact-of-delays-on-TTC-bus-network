@@ -1,6 +1,3 @@
-#DIVYANSH AGRAWAL
-#Ahnaf Shahriyar Chowdhury
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
