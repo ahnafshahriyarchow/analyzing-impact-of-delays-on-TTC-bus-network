@@ -1,6 +1,3 @@
-#DIVYANSH AGRAWAL
-#Ahnaf Shahriyar Chowdhury
-
 import pandas as pd
 import folium
 from geopy.geocoders import Nominatim
